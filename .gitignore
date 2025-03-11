@@ -1,0 +1,6 @@
+/.venv/
+/.env
+/service_account_key.json
+/docs/youtube/Stanford CS229： Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018).m4a
+/docs/
+/.idea/
